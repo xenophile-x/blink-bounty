@@ -1,0 +1,8 @@
+{
+  "rules": [
+    {
+      "pathPattern": "/api/actions/bounty",
+      "apiPath": "/api/actions/bounty"
+    }
+  ]
+}
